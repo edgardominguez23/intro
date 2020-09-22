@@ -1,8 +1,8 @@
-def sumar(a,b)
+def sumar(a,b):
     return a + b
 
-def resta(a,b)
+def resta(a,b):
     return a - b
 
-def mult(a,b)
+def mult(a,b):
     return a * b
